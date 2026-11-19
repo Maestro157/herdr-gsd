@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+# Written by Herdr into every mod folder
+gpui-kit.d.ts
+jsconfig.json
+# The mod's development switch (see mods/gsd/main.js)
+dev.json
+# Local notes and editor settings
+.claude/
+.vscode/
+.idea/
+*.log
